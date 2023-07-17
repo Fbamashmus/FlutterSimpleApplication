@@ -12,7 +12,7 @@ The application features the following screens:
 
 4. **Home Screen**: This screen contains a drawer that provides access to different sections of the app. Users can navigate to different parts of the app from here.
 
-5. **Contact Us Screen**: This screen contiain buttons navigates the user to contact information.
+5. **Contact Us Screen**: This screen contiain buttons navigates the user to contact information built using contactus: ^1.2.3 package.
 
 ## How to Run the App
 
