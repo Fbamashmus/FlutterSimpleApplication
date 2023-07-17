@@ -1,16 +1,33 @@
-# flutter_application_test
+# Simple Flutter Mobile App
 
-A new Flutter project.
+This is a simple mobile application built using Flutter, as a task for Flutter Academy with Bamboo Geeks. 
 
-## Getting Started
+The application features the following screens:
 
-This project is a starting point for a Flutter application.
+1. **Splash Screen**: This screen appears when the application is launched and displays the app logo or any other relevant information while the app loads.
 
-A few resources to get you started if this is your first Flutter project:
+2. **Login Screen**: This screen allows users to login to the application using their credentials.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **Signup Screen**: This screen allows users to create a new account by providing their details.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. **Home Screen**: This screen contains a drawer that provides access to different sections of the app. Users can navigate to different parts of the app from here.
+
+5. **Contact Us Screen**: This screen contiain buttons navigates the user to contact information.
+
+## How to Run the App
+
+To run the app, you need to have Flutter installed on your computer. Follow the steps below to run the app:
+
+1. Clone the repository to your local machine.
+
+2. Open the project in your preferred code editor.
+
+3. Connect your mobile device to your computer or launch an emulator.
+
+4. Run the following command in the terminal:
+
+   `````
+   flutter run
+   ```
+
+   This will launch the app on your device or emulator.
